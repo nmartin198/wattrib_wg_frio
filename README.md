@@ -11,17 +11,17 @@ This repository provides the source code for a custom weather generator (WG) tha
 
 ## Source Code
 
-The WG source code is available at [**src**](https://nmartin198.github.io/wattrib_wg_frio/tree/main/src).
+The WG source code is available at [**src**](https://github.com/nmartin198/wattrib_wg_frio/tree/main/src).
 
 
 ## Calibration Example
 
-An example calibration to a weather attribution study findings is presented in [**calibration**](https://nmartin198.github.io/wattrib_wg_frio/tree/main/calibration).
+An example calibration to a weather attribution study findings is presented in [**calibration**](https://github.com/nmartin198/wattrib_wg_frio/tree/main/calibration).
 
 
 ## Implementation Example
 
-Implementation of the attribution constrained WG to produce an ensemble of stochastic day-to-day weather realizations is provided in [**final**](https://nmartin198.github.io/wattrib_wg_frio/tree/main/final).
+Implementation of the attribution constrained WG to produce an ensemble of stochastic day-to-day weather realizations is provided in [**final**](https://github.com/nmartin198/wattrib_wg_frio/tree/main/final).
 
 
 ## Author
