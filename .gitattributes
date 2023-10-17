@@ -1,3 +1,4 @@
 assets/* linguist-documentation
 calibration/* linguist-vendored
 final/* linguist-vendored
+jupyter_notebooks/* linguist-documentation
