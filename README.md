@@ -1,6 +1,15 @@
-# Weather Attribution Constrained Weather Generator (WG) – Frio Basin
+# Incorporating Weather Attribution to Future Water Budget Projections – Frio Basin
 
-This repository provides the source code for a custom weather generator (WG) that includes extreme events. A schematic for the WG framework is displayed below. The purpose of this WG framework is to enable calibration to drought magnitudes and likelihoods, under human induced climate change. After calibration, the attribution constrained WG will provide a climate description that provides increased probability of future occurrence for what was historically severe and extreme drought relative to Coupled Model Intercomparison Project (CMIP), global climate model (GCM) simulation results. 
+This repository provides the source code and other files for the journal article [**Incorporating Weather Attribution to Future Water Budget Projections**](https://doi.org/10.3390/hydrology10120219). The graphical abstract for this article is displayed below.
+<br/>
+<figure>
+    <img src="/assets/Graphical-Abstract.png"
+         width="900"
+         alt="Graphical Abstract">
+</figure>
+<br/>
+
+In this study, a custom weather generator (WG) is created and calibrated that includes extreme events. A schematic for the WG framework is displayed below. The purpose of this WG framework is to enable calibration to drought magnitudes and likelihoods, under human induced climate change. After calibration, the attribution constrained WG will provide a climate description that provides increased probability of future occurrence for what was historically severe and extreme drought relative to Coupled Model Intercomparison Project (CMIP), global climate model (GCM) simulation results. 
 <br/>
 <figure>
     <img src="/assets/WG_Framework.png"
